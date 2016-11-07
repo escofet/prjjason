@@ -1,0 +1,11 @@
+{
+    "name": "Eduardo",
+    "lastname" : "Escofet",
+    "age" : 45,
+    "email" : "eduardoescofet@gmail.com",
+    "hobbies" : [
+        "books",
+        "movies",
+        "undisclosed"
+    ]
+}
